@@ -1,0 +1,16 @@
+#boxmodel1{
+    position:fixed;
+}
+#search{
+    position:relative;
+    top:-13px;
+    width: 250px;
+    height: 30px;
+    background-color: #CDCDCD;
+    border: 0px;
+    padding-right: 30px;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
